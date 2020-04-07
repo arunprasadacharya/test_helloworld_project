@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -103,6 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="github.com added.." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586290319290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586290319290" />
     <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1585234145186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -115,22 +130,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="521" y="266" width="347" height="196" key="Github.CreateGistDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585233437668" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585257227151">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1586207503069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227151" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585257227150">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586207503069" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1586207503069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227150" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585257227150">
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586207503069" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1586207503069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227150" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585257227150">
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586207503069" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1586207503069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227150" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586207503069" />
     <state x="275" y="89" key="Vcs.Push.Dialog.v2" timestamp="1585233737251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
